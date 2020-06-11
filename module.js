@@ -8,7 +8,4 @@ module.exports = {
         return state;
     }
   },
-  component: () => {
-    <div>slot component</div>;
-  },
 };
